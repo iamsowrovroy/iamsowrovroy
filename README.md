@@ -1,10 +1,12 @@
 
-<!-- ================================================= -->
-<!-- SOWROV ROY | PREMIUM GITHUB PROFILE README        -->
-<!-- PROBLEM SOLVER & BUILDER                          -->
-<!-- ================================================= -->
+<!-- ====================================================== -->
+<!-- SOWROV ROY | PREMIUM GITHUB PROFILE README             -->
+<!-- Identity: Problem Solver & Builder                     -->
+<!-- Brand Colors: #061426 | #00D9FF | #1677FF              -->
+<!-- ====================================================== -->
 
-<!-- HERO BANNER -->
+<!-- ================= HERO BANNER ================= -->
+
 <p align="center">
   <img
     src="./sowrov-roy-github-profile-banner.png"
@@ -13,7 +15,8 @@
   />
 </p>
 
-<!-- INTRODUCTION -->
+<!-- ================= INTRODUCTION ================= -->
+
 <h1 align="center">Hey, I'm Sowrov Roy 👋</h1>
 
 <h3 align="center">Problem Solver & Builder | CSE Student</h3>
@@ -25,7 +28,8 @@
   />
 </p>
 
-<!-- SOCIAL LINKS -->
+<!-- ================= SOCIAL BADGES ================= -->
+
 <p align="center">
   <a href="https://github.com/iamsowrovroy">
     <img src="https://img.shields.io/badge/GitHub-061426?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
@@ -39,6 +43,27 @@
   <a href="https://www.facebook.com/imsowrovroy">
     <img src="https://img.shields.io/badge/Facebook-061426?style=for-the-badge&logo=facebook&logoColor=00D9FF" alt="Facebook"/>
   </a>
+  <a href="https://www.instagram.com/iamsowrovroy">
+    <img src="https://img.shields.io/badge/Instagram-061426?style=for-the-badge&logo=instagram&logoColor=00D9FF" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/@iamsowrovroy">
+    <img src="https://img.shields.io/badge/YouTube-061426?style=for-the-badge&logo=youtube&logoColor=00D9FF" alt="YouTube"/>
+  </a>
+  <a href="https://www.threads.net/@iamsowrovroy">
+    <img src="https://img.shields.io/badge/Threads-061426?style=for-the-badge&logo=threads&logoColor=00D9FF" alt="Threads"/>
+  </a>
+  <a href="https://dev.to/iamsowrovroy">
+    <img src="https://img.shields.io/badge/DEV.to-061426?style=for-the-badge&logo=devdotto&logoColor=00D9FF" alt="DEV.to"/>
+  </a>
+  <a href="https://medium.com/@iamsowrovroy">
+    <img src="https://img.shields.io/badge/Medium-061426?style=for-the-badge&logo=medium&logoColor=00D9FF" alt="Medium"/>
+  </a>
+  <a href="https://www.behance.net/iamsowrovroy">
+    <img src="https://img.shields.io/badge/Behance-061426?style=for-the-badge&logo=behance&logoColor=00D9FF" alt="Behance"/>
+  </a>
+  <a href="https://dribbble.com/iamsowrovroy">
+    <img src="https://img.shields.io/badge/Dribbble-061426?style=for-the-badge&logo=dribbble&logoColor=00D9FF" alt="Dribbble"/>
+  </a>
   <a href="https://wa.me/8801719386336">
     <img src="https://img.shields.io/badge/WhatsApp-061426?style=for-the-badge&logo=whatsapp&logoColor=00D9FF" alt="WhatsApp"/>
   </a>
@@ -46,7 +71,8 @@
 
 ---
 
-<!-- ABOUT ME -->
+<!-- ================= ABOUT ME ================= -->
+
 <h2>👨‍💻 About Me</h2>
 
 I'm a Computer Science student passionate about technology, problem-solving, and building practical solutions to real-world challenges.
@@ -61,7 +87,8 @@ I enjoy exploring how software, innovation, and emerging technologies can create
 
 ---
 
-<!-- COMPUTER SCIENCE -->
+<!-- ================= COMPUTER SCIENCE ================= -->
+
 <h2>💻 Computer Science Fundamentals</h2>
 
 - Data Structures & Algorithms (DSA)
@@ -71,7 +98,8 @@ I enjoy exploring how software, innovation, and emerging technologies can create
 
 ---
 
-<!-- TECH STACK -->
+<!-- ================= TECH STACK ================= -->
+
 <h2>🛠️ Technologies & Tools</h2>
 
 <h3>Programming Languages</h3>
@@ -94,7 +122,8 @@ I enjoy exploring how software, innovation, and emerging technologies can create
 
 ---
 
-<!-- CURRENT LEARNING -->
+<!-- ================= CURRENT LEARNING ================= -->
+
 <h2>🌱 Currently Learning & Exploring</h2>
 
 <table>
@@ -118,7 +147,8 @@ I enjoy exploring how software, innovation, and emerging technologies can create
 
 ---
 
-<!-- AREAS OF INTEREST -->
+<!-- ================= INTERESTS ================= -->
+
 <h2>💡 Areas of Interest</h2>
 
 <p align="center">
@@ -132,7 +162,8 @@ I enjoy exploring how software, innovation, and emerging technologies can create
 
 ---
 
-<!-- GITHUB STATISTICS -->
+<!-- ================= GITHUB STATS ================= -->
+
 <h2>📊 GitHub Statistics</h2>
 
 <p align="center">
@@ -158,7 +189,8 @@ I enjoy exploring how software, innovation, and emerging technologies can create
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+
 <h2>📈 Contribution Activity</h2>
 
 <p align="center">
@@ -171,7 +203,8 @@ I enjoy exploring how software, innovation, and emerging technologies can create
 
 ---
 
-<!-- GITHUB TROPHIES -->
+<!-- ================= TROPHIES ================= -->
+
 <h2>🏆 GitHub Achievements</h2>
 
 <p align="center">
@@ -184,7 +217,8 @@ I enjoy exploring how software, innovation, and emerging technologies can create
 
 ---
 
-<!-- FEATURED PROJECTS -->
+<!-- ================= FEATURED PROJECTS ================= -->
+
 <h2>🚀 Featured Projects</h2>
 
 <p align="center">
@@ -212,7 +246,8 @@ I enjoy exploring how software, innovation, and emerging technologies can create
 
 ---
 
-<!-- MY VISION -->
+<!-- ================= VISION ================= -->
+
 <h2>🎯 My Vision</h2>
 
 <p align="center">
@@ -226,25 +261,71 @@ I enjoy exploring how software, innovation, and emerging technologies can create
 
 ---
 
-<!-- CONNECT -->
+<!-- ================= CONNECT ================= -->
+
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  I'm always interested in connecting with people who love technology,
-  business, entrepreneurship, and innovation.
+  I'm always interested in connecting with developers, entrepreneurs,
+  founders, creators, and people passionate about technology,
+  business, and innovation.
 </p>
 
-<p align="center">
-  <a href="https://github.com/iamsowrovroy">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/iamsowrovroy/">LinkedIn</a> ·
-  <a href="https://x.com/iamsowrovroy">X</a> ·
-  <a href="https://www.facebook.com/imsowrovroy">Facebook</a> ·
-  <a href="https://wa.me/8801719386336">WhatsApp</a>
-</p>
+<table align="center">
+  <tr>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/iamsowrovroy">iamsowrovroy</a></td>
+  </tr>
+  <tr>
+    <td><b>LinkedIn</b></td>
+    <td><a href="https://www.linkedin.com/in/iamsowrovroy/">iamsowrovroy</a></td>
+  </tr>
+  <tr>
+    <td><b>Instagram</b></td>
+    <td><a href="https://www.instagram.com/iamsowrovroy">iamsowrovroy</a></td>
+  </tr>
+  <tr>
+    <td><b>Facebook</b></td>
+    <td><a href="https://www.facebook.com/imsowrovroy">imsowrovroy</a></td>
+  </tr>
+  <tr>
+    <td><b>X (Twitter)</b></td>
+    <td><a href="https://x.com/iamsowrovroy">iamsowrovroy</a></td>
+  </tr>
+  <tr>
+    <td><b>YouTube</b></td>
+    <td><a href="https://www.youtube.com/@iamsowrovroy">@iamsowrovroy</a></td>
+  </tr>
+  <tr>
+    <td><b>Threads</b></td>
+    <td><a href="https://www.threads.net/@iamsowrovroy">@iamsowrovroy</a></td>
+  </tr>
+  <tr>
+    <td><b>DEV Community</b></td>
+    <td><a href="https://dev.to/iamsowrovroy">iamsowrovroy</a></td>
+  </tr>
+  <tr>
+    <td><b>Medium</b></td>
+    <td><a href="https://medium.com/@iamsowrovroy">@iamsowrovroy</a></td>
+  </tr>
+  <tr>
+    <td><b>Behance</b></td>
+    <td><a href="https://www.behance.net/iamsowrovroy">iamsowrovroy</a></td>
+  </tr>
+  <tr>
+    <td><b>Dribbble</b></td>
+    <td><a href="https://dribbble.com/iamsowrovroy">iamsowrovroy</a></td>
+  </tr>
+  <tr>
+    <td><b>WhatsApp</b></td>
+    <td><a href="https://wa.me/8801719386336">Message Me</a></td>
+  </tr>
+</table>
 
 ---
 
-<!-- FOOTER -->
+<!-- ================= FOOTER ================= -->
+
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:061426,100:1677FF&height=110&section=footer"
