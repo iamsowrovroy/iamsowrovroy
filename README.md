@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./github-banner.png" width="100%" alt="Sowrov Roy - Problem Solver and Builder" />
+  <img src="./Sowrov%20Roy_%20Problem%20Solver%20%26%20Builder.png"
+       width="100%"
+       alt="Sowrov Roy - Problem Solver & Builder">
 </p>
 # Hi, I'm Sowrov Roy 👋
 
