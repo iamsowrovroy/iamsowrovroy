@@ -32,43 +32,39 @@
 
 <p align="center">
   <a href="https://github.com/iamsowrovroy">
-    <img src="https://img.shields.io/badge/GitHub-061426?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/iamsowrovroy/">
-    <img src="https://img.shields.io/badge/LinkedIn-061426?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/iamsowrovroy">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/sowrovroy707">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/imsowrovroy">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://x.com/iamsowrovroy">
-    <img src="https://img.shields.io/badge/X-061426?style=for-the-badge&logo=x&logoColor=00D9FF" alt="X"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/imsowrovroy">
-    <img src="https://img.shields.io/badge/Facebook-061426?style=for-the-badge&logo=facebook&logoColor=00D9FF" alt="Facebook"/>
+  <a href="https://youtube.com/@iamsowrovroy">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/iamsowrovroy">
-    <img src="https://img.shields.io/badge/Instagram-061426?style=for-the-badge&logo=instagram&logoColor=00D9FF" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/@iamsowrovroy">
-    <img src="https://img.shields.io/badge/YouTube-061426?style=for-the-badge&logo=youtube&logoColor=00D9FF" alt="YouTube"/>
-  </a>
-  <a href="https://www.threads.net/@iamsowrovroy">
-    <img src="https://img.shields.io/badge/Threads-061426?style=for-the-badge&logo=threads&logoColor=00D9FF" alt="Threads"/>
+  <a href="https://threads.net/@iamsowrovroy">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
   </a>
   <a href="https://dev.to/iamsowrovroy">
-    <img src="https://img.shields.io/badge/DEV.to-061426?style=for-the-badge&logo=devdotto&logoColor=00D9FF" alt="DEV.to"/>
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
   <a href="https://medium.com/@iamsowrovroy">
-    <img src="https://img.shields.io/badge/Medium-061426?style=for-the-badge&logo=medium&logoColor=00D9FF" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://www.behance.net/iamsowrovroy">
-    <img src="https://img.shields.io/badge/Behance-061426?style=for-the-badge&logo=behance&logoColor=00D9FF" alt="Behance"/>
+  <a href="https://behance.net/iamsowrovroy">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
   <a href="https://dribbble.com/iamsowrovroy">
-    <img src="https://img.shields.io/badge/Dribbble-061426?style=for-the-badge&logo=dribbble&logoColor=00D9FF" alt="Dribbble"/>
-  </a>
-  <a href="https://wa.me/8801719386336">
-    <img src="https://img.shields.io/badge/WhatsApp-061426?style=for-the-badge&logo=whatsapp&logoColor=00D9FF" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
   </a>
 </p>
-
 ---
 
 <!-- ================= ABOUT ME ================= -->
