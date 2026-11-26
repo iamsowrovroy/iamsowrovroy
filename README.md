@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github-banner.png" width="100%" alt="Sowrov Roy - Problem Solver and Builder" />
+</p>
 # Hi, I'm Sowrov Roy 👋
 
 ### Problem Solver & Builder | CSE Student
