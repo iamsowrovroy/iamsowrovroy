@@ -1,39 +1,42 @@
 # Hi, I'm Sowrov Roy 👋
 
-### Software Developer | CSE Student
+### Problem Solver & Builder | CSE Student
 
-I'm passionate about building software, exploring emerging technologies, and solving real-world problems through technology.
+I'm passionate about technology, problem-solving, and building practical solutions to real-world challenges.
 
-### 🚀 Interests
-- Full-Stack Web Development
-- Artificial Intelligence & Machine Learning
-- Cybersecurity
-- Software Engineering
-- Technology & Entrepreneurship
+I enjoy exploring how software and technology can create value for people and businesses.
+
+### 💻 Computer Science Fundamentals
+- Data Structures & Algorithms (DSA)
+- Operating Systems (OS)
+- Computer Networking
+- Database Management Systems (DBMS)
+
+### 🧑‍💻 Programming Languages
+- C
+- C++
+- JavaScript
 
 ### 🌱 Currently Learning
 - React.js
-- JavaScript
-- Modern Web Development
-- Software Architecture
+- Modern Frontend Development
+- Full-Stack Development
 
-### 🎯 My Goal
-To become a skilled software engineer and build meaningful technology-driven products.
+### 🚀 Areas of Interest
+- Software Development
+- Artificial Intelligence
+- Cybersecurity
+- Technology & Entrepreneurship
+- Problem Solving & Innovation
+
+### 🎯 My Vision
+To become a technology-driven entrepreneur and build meaningful products that solve real-world problems.
 
 ### 🤝 Let's Connect
 - GitHub: [@iamsowrovroy](https://github.com/iamsowrovroy)
+- LinkedIn: [@iamsowrovroy](https://www.linkedin.com/in/iamsowrovroy/)
+- WhatsApp: [@iamsowrovroy](YOUR_WHATSAPP_USERNAME_LINK)
 
-<!--
-**iamsowrovroy/iamsowrovroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Always learning, building, and solving problems through technology.*
