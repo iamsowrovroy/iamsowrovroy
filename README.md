@@ -34,6 +34,9 @@
   <a href="https://github.com/iamsowrovroy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://sowrovroy-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/iamsowrovroy">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -65,6 +68,7 @@
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
   </a>
 </p>
+
 ---
 
 <!-- ================= ABOUT ME ================= -->
@@ -268,6 +272,10 @@ I enjoy exploring how software, innovation, and emerging technologies can create
 </p>
 
 <table align="center">
+  <tr>
+    <td><b>Portfolio</b></td>
+    <td><a href="https://sowrovroy-portfolio.vercel.app">Visit My Website</a></td>
+  </tr>
   <tr>
     <td><b>GitHub</b></td>
     <td><a href="https://github.com/iamsowrovroy">iamsowrovroy</a></td>
