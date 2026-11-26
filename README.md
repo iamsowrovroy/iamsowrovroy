@@ -1,8 +1,8 @@
 
-<!-- ===================================================== -->
-<!-- SOWROV ROY | GITHUB PROFILE README                    -->
-<!-- Brand: Deep Navy #061426 | Cyan #00D9FF | Blue #1677FF -->
-<!-- ===================================================== -->
+<!-- ================================================= -->
+<!-- SOWROV ROY | PREMIUM GITHUB PROFILE README        -->
+<!-- PROBLEM SOLVER & BUILDER                          -->
+<!-- ================================================= -->
 
 <!-- HERO BANNER -->
 <p align="center">
@@ -16,14 +16,16 @@
 <!-- INTRODUCTION -->
 <h1 align="center">Hey, I'm Sowrov Roy 👋</h1>
 
-<h3 align="center">
-  Problem Solver & Builder
-</h3>
+<h3 align="center">Problem Solver & Builder | CSE Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Exploring+Technology+%26+Innovation;Building+Practical+Solutions;Learning+%26+Growing+Every+Day;Future+Technology-Driven+Entrepreneur" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Exploring+Technology+%26+Innovation;Building+Practical+Solutions;Learning+%26+Growing+Every+Day;Future+Technology-Driven+Entrepreneur"
+    alt="Typing introduction"
+  />
 </p>
 
+<!-- SOCIAL LINKS -->
 <p align="center">
   <a href="https://github.com/iamsowrovroy">
     <img src="https://img.shields.io/badge/GitHub-061426?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
@@ -31,7 +33,13 @@
   <a href="https://www.linkedin.com/in/iamsowrovroy/">
     <img src="https://img.shields.io/badge/LinkedIn-061426?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn"/>
   </a>
-  <a href="https://wa.me/YOUR_PHONE_NUMBER">
+  <a href="https://x.com/iamsowrovroy">
+    <img src="https://img.shields.io/badge/X-061426?style=for-the-badge&logo=x&logoColor=00D9FF" alt="X"/>
+  </a>
+  <a href="https://www.facebook.com/imsowrovroy">
+    <img src="https://img.shields.io/badge/Facebook-061426?style=for-the-badge&logo=facebook&logoColor=00D9FF" alt="Facebook"/>
+  </a>
+  <a href="https://wa.me/8801719386336">
     <img src="https://img.shields.io/badge/WhatsApp-061426?style=for-the-badge&logo=whatsapp&logoColor=00D9FF" alt="WhatsApp"/>
   </a>
 </p>
@@ -47,48 +55,80 @@ I enjoy exploring how software, innovation, and emerging technologies can create
 
 - 🎓 Studying Computer Science & Engineering
 - 💡 Interested in solving real-world problems through technology
-- 🌱 Currently exploring modern frontend and full-stack development
+- 🌱 Exploring modern software and full-stack development
 - 🔍 Curious about AI, cybersecurity, business, and innovation
-- 🚀 Long-term vision: Building technology-driven products and businesses
+- 🚀 Long-term vision: Becoming a technology-driven entrepreneur
+
+---
+
+<!-- COMPUTER SCIENCE -->
+<h2>💻 Computer Science Fundamentals</h2>
+
+- Data Structures & Algorithms (DSA)
+- Operating Systems (OS)
+- Computer Networking
+- Database Management Systems (DBMS)
 
 ---
 
 <!-- TECH STACK -->
 <h2>🛠️ Technologies & Tools</h2>
 
-<h3>Languages & Development</h3>
+<h3>Programming Languages</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,html,css" alt="Programming and development technologies"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js" alt="C, C++ and JavaScript"/>
+</p>
+
+<h3>Frontend & Backend Development</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" alt="HTML, CSS, React and Node.js"/>
 </p>
 
 <h3>Tools & Platforms</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux" alt="Development tools and platforms"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux" alt="Git, GitHub, VS Code, MySQL and Linux"/>
 </p>
 
 ---
 
-<!-- CURRENT FOCUS -->
+<!-- CURRENT LEARNING -->
 <h2>🌱 Currently Learning & Exploring</h2>
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">💻 Software Development</h3>
-      <p align="center">
-        React.js · JavaScript · Node.js · Full-Stack Development
-      </p>
+    <td width="50%" align="center">
+      <h3>💻 Software Development</h3>
+      React.js<br/>
+      JavaScript<br/>
+      Node.js<br/>
+      Full-Stack Development
     </td>
-    <td width="50%">
-      <h3 align="center">🧠 Technology & Innovation</h3>
-      <p align="center">
-        Artificial Intelligence · Cybersecurity · Software Architecture
-      </p>
+    <td width="50%" align="center">
+      <h3>🧠 Technology & Innovation</h3>
+      Artificial Intelligence<br/>
+      Cybersecurity<br/>
+      Software Architecture<br/>
+      Technology & Entrepreneurship
     </td>
   </tr>
 </table>
+
+---
+
+<!-- AREAS OF INTEREST -->
+<h2>💡 Areas of Interest</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Development-061426?style=flat-square&logo=code&logoColor=00D9FF" alt="Software Development"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-061426?style=flat-square&logo=openai&logoColor=00D9FF" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-061426?style=flat-square&logo=linux&logoColor=00D9FF" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Entrepreneurship-061426?style=flat-square&logo=rocket&logoColor=00D9FF" alt="Entrepreneurship"/>
+  <img src="https://img.shields.io/badge/Business_&_Innovation-061426?style=flat-square&logo=lightbulb&logoColor=00D9FF" alt="Business and Innovation"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-061426?style=flat-square&logo=target&logoColor=00D9FF" alt="Problem Solving"/>
+</p>
 
 ---
 
@@ -118,72 +158,61 @@ I enjoy exploring how software, innovation, and emerging technologies can create
 
 ---
 
-<!-- TROPHIES -->
+<!-- CONTRIBUTION GRAPH -->
+<h2>📈 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=iamsowrovroy&bg_color=061426&color=FFFFFF&line=00D9FF&point=1677FF&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
+</p>
+
+---
+
+<!-- GITHUB TROPHIES -->
 <h2>🏆 GitHub Achievements</h2>
 
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=iamsowrovroy&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"
     width="100%"
-    alt="GitHub profile trophies"
+    alt="GitHub profile achievements"
   />
 </p>
 
 ---
 
-<!-- PROJECTS -->
+<!-- FEATURED PROJECTS -->
 <h2>🚀 Featured Projects</h2>
 
 <p align="center">
-  <i>Building practical projects and improving my development skills.</i>
+  <i>Building practical projects and continuously improving my development skills.</i>
 </p>
-
-<!-- Replace these examples with your real project repositories -->
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Project 01</h3>
-      <p align="center">
-        Add your best project here.
-      </p>
-      <p align="center">
-        <a href="https://github.com/iamsowrovroy">
-          View Repository →
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <h3>Project 01</h3>
+      <p>Add your best project description here.</p>
+      <a href="https://github.com/iamsowrovroy">
+        View Repository →
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center">Project 02</h3>
-      <p align="center">
-        Add another interesting project here.
-      </p>
-      <p align="center">
-        <a href="https://github.com/iamsowrovroy">
-          View Repository →
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <h3>Project 02</h3>
+      <p>Add another interesting project description here.</p>
+      <a href="https://github.com/iamsowrovroy">
+        View Repository →
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- AREAS OF INTEREST -->
-<h2>💡 Areas of Interest</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Software_Development-061426?style=flat-square&color=061426" alt="Software Development"/>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-061426?style=flat-square" alt="Artificial Intelligence"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-061426?style=flat-square" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Entrepreneurship-061426?style=flat-square" alt="Entrepreneurship"/>
-  <img src="https://img.shields.io/badge/Innovation-061426?style=flat-square" alt="Innovation"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-061426?style=flat-square" alt="Problem Solving"/>
-</p>
-
----
-
-<!-- VISION -->
+<!-- MY VISION -->
 <h2>🎯 My Vision</h2>
 
 <p align="center">
@@ -202,22 +231,26 @@ I enjoy exploring how software, innovation, and emerging technologies can create
 
 <p align="center">
   I'm always interested in connecting with people who love technology,
-  business, innovation, and problem-solving.
+  business, entrepreneurship, and innovation.
 </p>
 
 <p align="center">
-  <a href="https://github.com/iamsowrovroy">
-    <img src="https://img.shields.io/badge/GitHub-061426?style=for-the-badge&logo=github&logoColor=00D9FF"/>
-  </a>
-  <a href="https://www.linkedin.com/in/iamsowrovroy/">
-    <img src="https://img.shields.io/badge/LinkedIn-061426?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
-  </a>
+  <a href="https://github.com/iamsowrovroy">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/iamsowrovroy/">LinkedIn</a> ·
+  <a href="https://x.com/iamsowrovroy">X</a> ·
+  <a href="https://www.facebook.com/imsowrovroy">Facebook</a> ·
+  <a href="https://wa.me/8801719386336">WhatsApp</a>
 </p>
 
 ---
 
+<!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061426,100:1677FF&height=100&section=footer" width="100%" alt="Decorative footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:061426,100:1677FF&height=110&section=footer"
+    width="100%"
+    alt="Decorative footer"
+  />
 </p>
 
 <p align="center">
