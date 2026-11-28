@@ -228,17 +228,17 @@ I enjoy exploring how software, innovation, and emerging technologies can create
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>Project 01</h3>
-      <p>Add your best project description here.</p>
-      <a href="https://github.com/iamsowrovroy">
-        View Repository →
+      <h3>🧮 8086 Assembly Practice</h3>
+      <p>A collection of small programs exploring arithmetic, strings, character input/output, loops, and macros.</p>
+      <a href="https://github.com/iamsowrovroy/asm">
+        <img src="https://img.shields.io/badge/Browse-.asm%20Files-1677FF?style=for-the-badge&logo=github&logoColor=white" alt="Browse assembly source files" />
       </a>
     </td>
     <td width="50%" align="center">
-      <h3>Project 02</h3>
-      <p>Add another interesting project description here.</p>
-      <a href="https://github.com/iamsowrovroy">
-        View Repository →
+      <h3>📚 What you'll find</h3>
+      <p>Hands-on assembly exercises, organized as simple source files you can browse and learn from.</p>
+      <a href="https://github.com/iamsowrovroy/asm">
+        View the Repository →
       </a>
     </td>
   </tr>
